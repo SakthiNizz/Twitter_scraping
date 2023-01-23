@@ -1,6 +1,8 @@
 # Twitter_scraping
+![images](https://user-images.githubusercontent.com/107666598/213983094-ebd2044e-2cef-4bd6-857c-40a49b1d56e5.jpeg)
 
   Here is an amazing script with streamlit GUI to scrape datas from twitter. This mainly helps for data Scientist to research and scrape data from twitter.
+  
   
  # Benifits:
   
